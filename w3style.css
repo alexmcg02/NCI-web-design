@@ -1,0 +1,16 @@
+/* LesL
+white #fff
+black #000
+*/
+
+body{
+		/*background-color:red;*/
+		color: red;
+}
+
+h1{
+	color: black;
+}
+li >a{
+	color: orange;
+}

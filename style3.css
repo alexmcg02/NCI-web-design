@@ -1,0 +1,38 @@
+
+/*
+selctor{
+	property: value;
+}
+
+font-family: 'Playfair Display', serif;
+*/
+
+td, th{
+	border: 2px solid black;
+	text-align: left;
+}
+*/
+
+td, th{
+	border: 2px solid black;
+	text-align: left;
+}
+
+body{
+	padding-left: 50px;
+}
+p{
+	padding-left: 50px;
+}
+
+.para1{
+	font-family: 'Birthstone', cursive;
+font-family: 'Playfair Display', serif;
+}
+
+.para2{
+	color: blue;
+}
+
+
+

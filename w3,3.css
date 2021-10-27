@@ -1,0 +1,29 @@
+#wrapper{
+	width:90%;
+}
+
+.head{
+	height: 50px;
+	background-color: #999;
+}
+
+.sidebar{
+	width: 15%;
+	float: left;
+	background-color: red;
+	height: 550px;
+}
+
+.main{
+	width: 85%;
+	float: right;
+	background-color: yellow;
+	background-image: url("destiny 2.jpg");
+	height: 550px;
+	text-color: yellow;
+}
+
+p {
+  text-decoration: underline;
+  text-decoration-color: red;
+}

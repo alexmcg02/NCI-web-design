@@ -1,0 +1,35 @@
+body{
+	/*background-color: red;*/
+}
+
+h1{
+	position: fixed;
+	background-color: #ccffff;
+	left:300px;
+}
+
+div{
+	width:400px;
+}
+
+.indent{
+	position: relative;
+	top: 20px;
+	left:100px;
+	background-color: yellow;
+	
+}
+
+h3{
+	position: relative;
+	top: 50px;
+	left:200px;
+}
+	
+.left{
+	float:left;
+}
+
+.right{
+	float:right;
+}
